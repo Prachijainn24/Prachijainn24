@@ -221,24 +221,19 @@ Serverless image recognition system using AWS services for image processing and 
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Prachijainn24?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=38BDF8" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Prachijainn24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+  width="500"
+/>
 
-&nbsp;&nbsp;
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Prachijainn24&style=for-the-badge&color=818CF8&label=PROFILE+VISITS" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Prachijainn24?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=38BDF8" />
-</a>
+<img
+  src="https://streak-stats.demolab.com/?user=Prachijainn24&theme=tokyonight&hide_border=true&background=1A1B26&ring=6EA8FE&fire=6EA8FE&currStreakLabel=BB86FC"
+  width="500"
+/>
 
 </div>
-
 ---
 ---
 
