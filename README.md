@@ -26,7 +26,6 @@
 
 </div>
 
----
 
 # ⚡ About Me
 
@@ -102,7 +101,6 @@ Collaboration
 
 </div>
 
----
 
 # 💻 Projects
 
@@ -184,7 +182,6 @@ Serverless image recognition system using AWS services for image processing and 
 
 </div>
 
----
 
 # 🛠️ Tech Stack
 
@@ -214,7 +211,6 @@ Serverless image recognition system using AWS services for image processing and 
 
 </div>
 
----
 
 
 # 📈 Contribution Graph
@@ -225,17 +221,6 @@ Serverless image recognition system using AWS services for image processing and 
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachijainn24&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=PRACHI'S%20CONTRIBUTION%20GRAPH" width="100%" />
-
-</div>
-
----
 
 # 📌 Popular Repositories
 
