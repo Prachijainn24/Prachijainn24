@@ -215,26 +215,16 @@ Serverless image recognition system using AWS services for image processing and 
 </div>
 
 ---
----
 
-# 📊 GitHub Stats & Activity
+
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Prachijainn24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-  width="500"
-/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com/?user=Prachijainn24&theme=tokyonight&hide_border=true&background=1A1B26&ring=6EA8FE&fire=6EA8FE&currStreakLabel=BB86FC"
-  width="500"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachijainn24&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=PRACHI'S%20CONTRIBUTION%20GRAPH" width="100%" />
 
 </div>
----
+
 ---
 
 # 📈 Contribution Graph
