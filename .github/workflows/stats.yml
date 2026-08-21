@@ -2,8 +2,6 @@ name: Generate GitHub Stats
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -16,6 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # GitHub Stats Card
       - name: Generate GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -24,20 +23,21 @@ jobs:
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # GitHub Streak Card
       - name: Generate GitHub Streak
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          card: streak
-          options: username=Prachijainn24&theme=tokyonight&hide_border=true
+          options: user=Prachijainn24&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8
           path: profile/streak-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Save generated SVG files
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/*.svg
+          git add profile/stats-dark.svg profile/streak-dark.svg
 
           git diff --cached --quiet || git commit -m "Update GitHub stats cards"
 
